@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omprakash-yadav
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning MARN
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
