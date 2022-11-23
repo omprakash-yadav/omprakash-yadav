@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omprakash-yadav
+- 👋 Hi, my name is omprakash yadav
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN
 - 💞️I’m looking to collaborate on open source projects
